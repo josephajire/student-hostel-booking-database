@@ -45,7 +45,7 @@ The database includes the following tables:
    
 2. Open MySQL Workbench and import hostel_booking.sql (from the cloned repository).
 
-   > `hostel_booking.sql` contains the full database creation script (tables + constraints). The name of the database that will be created and added to the schema section on the MySQL Workbench is **studenthosteldb**
+   > `hostel_booking.sql` contains the full database creation script (tables + constraints). The name of the database that will be created and added to the schema section on the MySQL Workbench is **studenthosteldb**.
 
 3. Insert sample data. 
 
