@@ -48,6 +48,7 @@ The database includes the following tables:
    > `hostel_booking.sql` contains the full database creation script (tables + constraints).
 
 3. Insert sample data. 
+
 You can use and run the following SQL codes in MySQL Workbench to insert some sample data.
 
 ```sql
