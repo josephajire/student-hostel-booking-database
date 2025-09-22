@@ -52,6 +52,8 @@ The database includes the following tables:
 You can use and run the following SQL codes in MySQL Workbench to insert some sample data.
 
 ```sql
+USE studenthosteldb; -- Switch to the imported database.
+
 -- Insert sample students
 INSERT INTO Students (first_name, last_name, gender, date_of_birth, email, phone_number)
 VALUES 
